@@ -1,0 +1,4 @@
+#config file
+
+'IQ_score': 'D:\Downloads\IQ.csv'
+'Happiness_score': 'D:\Downloads\world-happiness-report-2021.csv'
